@@ -1,7 +1,6 @@
 # Hi, I'm Faysal! 👋
 
 I'm a **Programmer** and **Embedded Systems & IoT Enthusiast**.  
-Welcome to my GitHub profile!  
 
 ---
 
