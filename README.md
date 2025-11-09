@@ -9,6 +9,9 @@ I'm a **Programmer** and **Embedded Systems & IoT Enthusiast**.
 ### MATLAB
 - [Audio Track Restoration & Sampling of Audio Signal](https://github.com/faysal-mahmud925/MATLAB_Project) – Signals and Systems final project
 
+### ML Notebooks
+- [Delaney Solubility with_descriptors](https://github.com/faysal-mahmud925/ml-notebooks)- Machine Learning Model
+
 ### Java & Data Structures
 - [Data Structure Projects](https://github.com/faysal-mahmud925/MATLAB_Project) – Java-based OOP and data structure exercises
 
